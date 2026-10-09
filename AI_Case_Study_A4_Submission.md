@@ -1,8 +1,7 @@
 # AI Case Study: Knowledge Base for Financial Article Analysis System
 
 **Course:** Master of Computer Applications (MCA)  
-**Topic:** Knowledge Representation in Artificial Intelligence  
-**Format:** A4 Paper Submission  
+**Topic:** Knowledge Representation in Artificial Intelligence   
 
 ---
 
